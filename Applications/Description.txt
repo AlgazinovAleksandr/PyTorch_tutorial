@@ -1,1 +1,1 @@
-
+Here I want to show real-world applications of the PyTorch framework - from fully connected neural networks to computer vision and reinforcement learning. 
