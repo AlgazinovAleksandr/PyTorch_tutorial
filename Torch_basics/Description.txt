@@ -1,1 +1,1 @@
-
+Even though PyTorch is a very powerful tool, it takes quite a lot of effort and time to master it. Here I want to analyze this framework and see what for it is useful - from the basics of tensor computing to creating a neural network pipeline.
